@@ -1,4 +1,5 @@
-Exploring Gene Co-expression in Staphylococcus aureus: Biofilm and Genotoxic Stressors Converge on Modules Associated with the SOS Response
+**Exploring Gene Co-expression in Staphylococcus aureus: Biofilm and Genotoxic Stressors Converge on Modules Associated with the SOS Response
+**
 
 Edgardo Galan-Vasquez, Roberta dos Reis Ribeiro, Maiana de Oliveira Cerqueira e Costa, Silvia Tenorio-Salgado, Cinthia Valentina Soberanes-Gutiérrez, Marisa Fabiana Nicolás, and Ernesto Perez-Rueda
 
